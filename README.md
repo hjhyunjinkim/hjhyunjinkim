@@ -1,7 +1,5 @@
 ### Hi there 👋
-### I am majoring in Urban Planning & Engineering and Computer Science (Double-majoring!)
-### 🔭 Associations: YAI (Regular Member)
-### I am primarily interested in Computer Vision.
+I am majoring in Urban Planning & Engineering and Computer Science (Double-majoring!)
 
 <!--
 **hjhyunjinkim/hjhyunjinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,3 @@
-### 
-I am majoring in Urban Planning & Engineering and Computer Science (Double-majoring!)
-
 <h2 align="center">Hyunjin Kim</h2>
 
 <h3 align="center">Major : Urban Planning & Engineering, Computer Science</h3>

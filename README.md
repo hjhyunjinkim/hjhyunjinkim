@@ -1,5 +1,7 @@
 <h2 align="center">Hyunjin Kim</h2>
 
+<h3 align="center">Yonsei University</h3>
+
 <h3 align="center">Major : Urban Planning & Engineering, Computer Science</h3>
 
 <h4 align="center">Programming Languages</h4>

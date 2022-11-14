@@ -1,11 +1,5 @@
 <h2 align="center">Hyunjin Kim</h2>
 
-<h3 align="center">Education</h3>
-
-<h4 align="center">Yonsei University, Urban Planning & Engineering, Computer Science || 2020.03 - Present</h2> 
-<h4 align="center">University of Toronto, Faculty of Arts and Science, Computer Science (Exchange Program) || 2022.09 - 2023.04 </h2> 
-
-
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">

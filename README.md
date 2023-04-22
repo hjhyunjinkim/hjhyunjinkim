@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Education</h3>
 
 <h4 align="center">Yonsei University, Urban Planning & Engineering, Computer Science || 2020.03 - 2024.08 (Expected)</h2> 
-<h4 align="center">University of Toronto, Faculty of Arts and Science, Computer Science (Exchange Program) || 2022.09 - 2023.04 </h2> 
+<h4 align="center">University of Toronto, Computer Science (Exchange Program) || 2022.09 - 2023.04 </h2> 
 
 <h3 align="center">Programming Languages</h3>
 

@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <h2 align="center">Hyunjin Kim</h2>
 
 <h3 align="center">Education</h3>
@@ -47,4 +49,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp 
 </p>
-
+-->

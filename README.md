@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hyunjin Kim</h2>
 
-<h3 align="center">Education</h3>
+<!--<h3 align="center">Education</h3>-->
 
 <h4 align="center">Yonsei University, Urban Planning & Engineering, Computer Science || 2020.03 - 2024.08 (Expected)</h2> 
 <h4 align="center">University of Toronto, Computer Science (Exchange Program) || 2022.09 - 2023.04 </h2> 
 
+<!--
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
@@ -49,3 +50,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp 
 </p>
+-->

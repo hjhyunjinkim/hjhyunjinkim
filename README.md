@@ -1,4 +1,15 @@
+<div align="left">
 
+## Hyunjin Kim 
+
+### 🎓 Education
+* `2020.03 - 2024.08 (Expected)` B.S. in Computer Science and Engineering, Yonsei University
+* `2020.03 - 2024.08 (Expected)` B.S. in Urban Planning and Engineering, Yonsei University
+* `2022.09 - 2023.04` Exchange Student, Computer Science, University of Toronto
+<br>
+
+<!--### 💻 Work Experience-->
+</div>
 
 
 <!--
@@ -17,14 +28,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Hyunjin Kim</h2>
+<!--<h2 align="center">Hyunjin Kim</h2>
 
-<!--<h3 align="center">Education</h3>-->
+<h3 align="center">Education</h3>
 
 <h4 align="center">Yonsei University, Urban Planning & Engineering, Computer Science || 2020.03 - 2024.08 (Expected)</h2> 
-<h4 align="center">University of Toronto, Computer Science (Exchange Program) || 2022.09 - 2023.04 </h2> 
+<h4 align="center">University of Toronto, Computer Science (Exchange Program) || 2022.09 - 2023.04 </h2>
 
-<!--
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">

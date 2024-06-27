@@ -2,10 +2,6 @@
 
 ## Hyunjin Kim 
 
-### 🎓 Education
-* `2020.03 - 2024.08 (Expected)` B.S. in Computer Science and Engineering, Yonsei University
-* `2020.03 - 2024.08 (Expected)` B.S. in Urban Planning and Engineering, Yonsei University
-* `2022.09 - 2023.04` Exchange Student, Computer Science, University of Toronto
 <br>
 
 <!--### 💻 Work Experience-->
